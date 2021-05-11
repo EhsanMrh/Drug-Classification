@@ -1,4 +1,4 @@
-# Drug-Classification
+# Machine Learning Drug Classification
 
 Context
 Since as a beginner in machine learning it would be a great opportunity to try some techniques to predict the outcome of the drugs that might be accurate for the patient.
